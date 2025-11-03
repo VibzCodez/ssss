@@ -437,7 +437,7 @@ Pane vertical Pane2  " style=3D"flex: 1 1 0%; position: relative; outline: =
 none;"><div class=3D"cs3-prompt with-editor"><div class=3D"dynamic-html "><=
 div>
     <p>
-        Note: This app is similar in some ways to the Bigger Smaller
+        Note: This app is similar in some ways to the nothing and nothing
         guided exercise you just completed.
     </p>
     <p>
@@ -751,7 +751,7 @@ nKEyvgq0zqwGeGYWgLtAfGeuz9SRq1QGr/j6KmoueszbKUaoe0Yn/wyZDpLcVtKJ7wvpo3tk5yv=
 zlxKftHqdKMul8beP1QfMZVOIZDXrIiz5AGm+VAfYyqIJhB5LbQuB7js9zCJdttfuLv7cv4AEnn=
 4r9urOg0AAAAASUVORK5CYII=3D" alt=3D""></div><div style=3D"display: flex; al=
 ign-items: center; justify-content: space-around;"><div><div>Set cleared!</=
-div><div class=3D"bold">3.2.5 Section Exercises</div></div><div class=3D"cu=
+div><div class=3D"bold">6.7 Section Exercises</div></div><div class=3D"cu=
 rrent-total-points"><svg width=3D"100px" height=3D"100px"><path id=3D"total=
 Circle" fill=3D"none" stroke=3D"#dfe2ee" stroke-width=3D"14" d=3D"M 49.9999=
 9999999999 14 A 36 36 0 1 0 50.00628318527529 14.000000548311355"></path><p=
@@ -17298,6 +17298,7 @@ one; clear: both; }
 
 .ace_search_counter { float: left; font-family: arial; padding: 0px 8px; }
 ------MultipartBoundary--AT7YgLQvu4uggtRDvqCFhnHmoGT6tjOFvR46M4yG7y------
+
 
 
 
