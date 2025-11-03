@@ -1,6 +1,6 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://academy.cs.cmu.edu/exercise/24689
-Subject: Exercise: Bigger Smaller Again | CMU CS Academy
+Subject: Exercise: Nothing and Nothing Again | CMU CS Academy
 Date: Mon, 3 Nov 2025 13:06:03 -0500
 MIME-Version: 1.0
 Content-Type: multipart/related;
@@ -105,7 +105,7 @@ ext; flex-direction: row; left: 0px; right: 0px;"><div class=3D"Pane vertic=
 al Pane1  " style=3D"flex: 0 0 auto; position: relative; outline: none; wid=
 th: 905px;"><div class=3D"cs3-editor-and-toolbar-left"><div class=3D"toolba=
 r left "><div class=3D"toolbar-header sandbox"><div class=3D"toolbar-title"=
-><div class=3D"toolbar-title-text">3.2.5 Bigger Smaller Again</div></div></=
+><div class=3D"toolbar-title-text">3.2.5 Nothing and Nothing Again</div></div></=
 div><div style=3D"flex-grow: 100;"></div><button class=3D"ui-btn secondary"=
  style=3D"margin-right: 15px;">Stop</button><div class=3D"grading-interface=
 -container"><button class=3D"ui-btn disabled">Check</button></div><button i=
@@ -17298,4 +17298,5 @@ one; clear: both; }
 
 .ace_search_counter { float: left; font-family: arial; padding: 0px 8px; }
 ------MultipartBoundary--AT7YgLQvu4uggtRDvqCFhnHmoGT6tjOFvR46M4yG7y------
+
 
