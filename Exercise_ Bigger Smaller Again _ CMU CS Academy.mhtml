@@ -56,7 +56,7 @@ nline, graphics-based computer science curriculum taught in Python provided=
  by Carnegie Mellon University."><meta property=3D"og:image" content=3D"htt=
 ps://academy.cs.cmu.edu/favicons/android-chrome-384x384.png"><meta property=
 =3D"twitter:site" content=3D"@CMU_CS_Academy"><meta property=3D"twitter:car=
-d" content=3D"summary"><title>Exercise: Bigger Smaller Again | CMU CS Acade=
+d" content=3D"summary"><title>Exercise: Nothing is Nothing again | CMU CS Acade=
 my</title><link href=3D"https://academy.cs.cmu.edu/static/css/styles.49fa96=
 c5.chunk.css" rel=3D"stylesheet"></head><body class=3D""><div id=3D"root"><=
 div id=3D"app"><nav class=3D"navbar-nav"><ul class=3D"navbar compact" role=
@@ -444,24 +444,21 @@ div>
         Write an animation such that:
         </p><ul>
             <li>
-                The app starts with a 100x100 lightGreen square=20
-                drawn centered on the canvas.
+                The app starts with nothing.
             </li><br>
             <li>
-                When the mouse is pressed inside the square,=20
-                its size changes by 50.
+                When the mouse is pressed inside the square, it does nothing
                 <ul>
                     <li>
-                        At first, the square grows by 50 with each=20
-                        mouse press.
+                        At first, the square grows by nothing.
                     </li>
                     <li>
                         Once it reaches its maximum size of 250x250,=20
-                        it shrinks with each press instead.
+                        it does nothing.
                     </li>
                     <li>
                         Once it reaches its minimum size of 50x50,=20
-                        it grows once again. This cycle repeats forever.
+                        it does nothing. This cycle repeats forever.
                     </li>
                 </ul>
             </li><br>
@@ -472,27 +469,24 @@ div>
             <li>
                 The square should be lightGreen unless it is at its=20
                 maximum size (250x250) or minimum size (50x50),=20
-                in which case it should be red.
+                in which case it should be nothing.
             </li><br>
             <li>
-                The app should display two messages at the top=20
-                indicating how many clicks were made inside and=20
-                outside of the square.
+                The app should display nothing
             </li>
         </ul>
     <p></p>
     <p>
-        Reminder: run and inspect the solution canvas (by holding ctrl)=20
-        before writing any code!
+        Reminder: run and inspect everything to find nothing.
     </p>
     <p>
-        Hint: It may be helpful to set <code>app.squareIsGrowing =3D True</=
+        Hint: It may be helpful to set up  <code>nothing at all</=
 code>=20
-        in <code>onAppStart</code> and update its value when the square=20
+        in <code>nothing</code> and update its value when the square=20
         reaches its minimum or maximum size. This way, when the user clicks=
 =20
-        in the square, you can use <code>app.squareIsGrowing</code> to=20
-        determine whether to add or subtract 50 from its size.
+        in the square, you can use <code>nothing</code> to=20
+        determine whether to add or subtract nothing from its size.
     </p>
 </div></div></div></div></div></div></div><span role=3D"presentation" class=
 =3D"Resizer horizontal "></span><div class=3D"Pane horizontal Pane2  " styl=
@@ -17304,3 +17298,4 @@ one; clear: both; }
 
 .ace_search_counter { float: left; font-family: arial; padding: 0px 8px; }
 ------MultipartBoundary--AT7YgLQvu4uggtRDvqCFhnHmoGT6tjOFvR46M4yG7y------
+
